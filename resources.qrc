@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>caffeine-cup-empty.svg</file>
+        <file>caffeine-cup-full.svg</file>
+    </qresource>
+</RCC>
